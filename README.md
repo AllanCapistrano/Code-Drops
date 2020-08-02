@@ -7,6 +7,6 @@
 
 ### Code/Drops realizados ###
 
-Número | Vídeo | Data da realização
------- | ----- | ------------------
-[#44](https://github.com/AllanCapistrano/Code-Drops/tree/master/%2344-Solid-ApiRest) | [Princípios SOLID em uma API REST com Node.Js e TypeScript](https://www.youtube.com/watch?v=vAV4Vy4jfkc) | 29/07/2020 
+Número | Vídeo | Data da realização | Downloads
+------ | ----- | ------------------ | ---------
+[#44](https://github.com/AllanCapistrano/Code-Drops/tree/master/%2344-Solid-ApiRest) | [Princípios SOLID em uma API REST com Node.Js e TypeScript](https://www.youtube.com/watch?v=vAV4Vy4jfkc) | 29/07/2020 | [Clique Aqui](https://github.com/AllanCapistrano/Code-Drops/releases/tag/1.0)
