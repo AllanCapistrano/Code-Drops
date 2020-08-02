@@ -7,6 +7,9 @@
 
 ### Code/Drops realizados ###
 
-Número | Vídeo | Data da realização | Downloads
+Número * | Vídeo | Data da realização | Download
 ------ | ----- | ------------------ | ---------
 [#44](https://github.com/AllanCapistrano/Code-Drops/tree/master/%2344-Solid-ApiRest) | [Princípios SOLID em uma API REST com Node.Js e TypeScript](https://www.youtube.com/watch?v=vAV4Vy4jfkc) | 29/07/2020 | [Clique Aqui](https://github.com/AllanCapistrano/Code-Drops/releases/tag/1.0)
+[NaN](https://github.com/AllanCapistrano/Code-Drops/tree/master/discord-interface) | [Recriando a Interface do Discord com ReactJS - UI Clone](https://www.youtube.com/watch?v=x4FdZd2-_uU) | 02/08/2020 | Indisponível
+
+##### * Os que estão com NaN, são vídeos que não são da série "Code/Drops". #####
