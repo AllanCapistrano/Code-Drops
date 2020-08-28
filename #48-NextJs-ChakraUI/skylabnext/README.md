@@ -6,7 +6,7 @@
 
 Utilizando o framework Next.Js juntamente com Chakra UI para recriar a página de login da [Rocketseat](https://app.rocketseat.com.br/).
 
-#### Recursos instalados: ####
+#### Dependências: ####
 - Typescript
 - Next.Js
 - @types/node
