@@ -1,6 +1,6 @@
 # Code-Drops
 <p align="center">
-  <img src="https://camo.githubusercontent.com/e3a00cb35e63ebc807f3d6c3178e1f17c24a70f3/68747470733a2f2f726f636b6574736561742e636f6d2e62722f7374617469632f6f672e706e67" width="500px">
+  <img src="https://lh3.googleusercontent.com/proxy/FmARKWtYo41v6rddZAc9L9mwKsTWPxiKymH1J_PhCuSJhX15LhLwv26TLjAlNc5A1Leo-SOXchJvECkZbNlyHVubBRyYrZZazgJci1YRiWIQGS83uw" width="400px">
 </p>
 
 **Repositório no qual irei colocar os arquivos desenvolvidos nos vídeos da série "Code/Drops" do canal da [Rocketseat](https://www.youtube.com/channel/UCSfwM5u0Kce6Cce8_S72olg) no YouTube.**
