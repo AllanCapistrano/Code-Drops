@@ -6,7 +6,7 @@ L -> Liskov substitution principle: Substituir implementações que uma classe p
 I -> Interface segregation principle: É melhor ter várias interfaces, em vez de uma muito "robusta";<br>
 D -> Dependency inversion principle: As classes não devem depender de implementações, mas sim de interfaces.<br>
 
-#### Recursos instalados: ####
+#### Dependências: ####
 - Typescript
 - Express
 - @types/express
