@@ -1,6 +1,6 @@
 # Code-Drops
 <p align="center">
-  <img src="https://lh3.googleusercontent.com/proxy/FmARKWtYo41v6rddZAc9L9mwKsTWPxiKymH1J_PhCuSJhX15LhLwv26TLjAlNc5A1Leo-SOXchJvECkZbNlyHVubBRyYrZZazgJci1YRiWIQGS83uw" width="400px">
+  <img src="https://i.imgur.com/JGzhErq.png" width="400px">
 </p>
 
 ------------
