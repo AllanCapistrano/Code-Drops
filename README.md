@@ -22,7 +22,7 @@ Número * | Vídeo | Data da realização | Download
 ------------
 
 ## Como visualizar os projetos na sua própria máquina ##
-**Opção 1:** Assistindo os vídeos que estão disponíveis na tabela acima.<br /> <br />
+**Opção 1:** Assistindo os vídeos que estão disponíveis na tabela acima e codando.<br /> <br />
 **Opção 2:** Fazendo download dos projetos já prontos. [Clique aqui](https://github.com/AllanCapistrano/Code-Drops/releases) para ver a listagem dos projetos ou acesse a partir da tabela acima.<br /> <br />
 <strong>Opção 3*:</strong>
 1. Faça um Fork deste repositório (caso queira modificá-lo) ou somente clone este repositório.
