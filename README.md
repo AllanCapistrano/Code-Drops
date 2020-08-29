@@ -30,7 +30,7 @@ Número * | Vídeo | Data da realização | Download
 3. Após instalar o Yarn, no diretório do projeto desejado , digite `yarn install` no seu terminal, para instalar as dependências do projeto.
 4. Logo após, digite `yarn upgrade` para atualizar as dependências do projeto.
 
-##### * Só e necessário fazer a instalação e o passo a passo do Yarn nos projetos que tiverem um arquivo `yarn.lock` #####
+##### * Só e necessário fazer a instalação e o passo a passo do Yarn nos projetos que tiverem o arquivo `yarn.lock`. #####
 
 ------------
 
