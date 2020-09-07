@@ -4,12 +4,13 @@
 </p>
 
 ------------
-## Descrição ##
+
+## 📚 Descrição ##
 Repositório no qual irei colocar os arquivos desenvolvidos, principalmente, nos vídeos da série "Code/Drops" do canal da [Rocketseat](https://www.youtube.com/channel/UCSfwM5u0Kce6Cce8_S72olg) no YouTube.
 
 ------------
 
-## Code/Drops realizados ##
+## 📋 Code/Drops realizados ##
 Número * | Vídeo | Data da realização | Download
 -------- | ----- | ------------------ | ---------
 [#44](https://github.com/AllanCapistrano/Code-Drops/tree/master/%2344-Solid-ApiRest) | [Princípios SOLID em uma API REST com Node.Js e TypeScript](https://www.youtube.com/watch?v=vAV4Vy4jfkc) | 29/07/2020 | [Clique Aqui](https://github.com/AllanCapistrano/Code-Drops/releases/tag/1.0)
@@ -21,7 +22,7 @@ Número * | Vídeo | Data da realização | Download
 
 ------------
 
-## Como visualizar os projetos na sua própria máquina ##
+## 🖥️ Como visualizar os projetos na sua própria máquina ##
 **Opção 1:** Assistindo os vídeos que estão disponíveis na tabela acima e codando.<br /> <br />
 **Opção 2:** Fazendo download dos projetos já prontos. [Clique aqui](https://github.com/AllanCapistrano/Code-Drops/releases) para ver a listagem dos projetos ou acesse a partir da tabela acima.<br /> <br />
 <strong>Opção 3*:</strong>
@@ -34,5 +35,5 @@ Número * | Vídeo | Data da realização | Download
 
 ------------
 
-## Autor ##
+## 📌 Autor ##
 - Allan Capistrano: [Github](https://github.com/AllanCapistrano) - [Linkedin](https://www.linkedin.com/in/allancapistrano/) - [E-mail](https://mail.google.com/mail/u/0/?view=cm&fs=1&tf=1&source=mailto&to=asantos@ecomp.uefs.br)
