@@ -1,7 +1,7 @@
 ## Armazenando dados no Navegador com localStorage ##
 
 <p align="center">
-  <img src="https://i.imgur.com/VVsN5cv.png" alt="Rocketseat login" width="700px" height="350">
+  <img src="https://i.imgur.com/VVsN5cv.png" alt="Local Storage" width="700px" height="350">
 </p>
 
 <p align="center">
