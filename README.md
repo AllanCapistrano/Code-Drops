@@ -17,6 +17,7 @@ Número * | Vídeo | Data da realização | Download
 [NaN](https://github.com/AllanCapistrano/Code-Drops/tree/master/discord-interface) | [Recriando a Interface do Discord com ReactJS - UI Clone](https://youtu.be/x4FdZd2-_uU) | 02/08/2020 | Indisponível
 [#48](https://github.com/AllanCapistrano/Code-Drops/tree/master/%2348-NextJs-ChakraUI/skylabnext) | [Aplicações React do futuro? UI declarativas, design system e frameworks](https://youtu.be/6TEo2AxW-oQ?list=WL) | 27/08/2020 | [Clique aqui](https://github.com/AllanCapistrano/Code-Drops/releases/tag/1.1)
 [#49](https://github.com/AllanCapistrano/Code-Drops/tree/master/%2349-Local-Storage) | [Armazenando dados no Navegador com localStorage](https://youtu.be/De5np8phQxo?list=WL) | 29/08/2020 | [Clique aqui](https://github.com/AllanCapistrano/Code-Drops/releases/tag/1.3)
+[#60](https://github.com/AllanCapistrano/Code-Drops/tree/master/%2360-Speech-Engine) | [Você não vai mais precisar ler depois desse robô](https://youtu.be/XlNLjG2c9uM) | 05/10/2020 | [Clique aqui]()
 
 ##### * Os que estão com NaN, são vídeos que não são da série "Code/Drops". #####
 
