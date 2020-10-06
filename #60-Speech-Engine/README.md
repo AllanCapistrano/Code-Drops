@@ -1,7 +1,7 @@
 ## Speech Engine ##
 
 <p align="center">
-  <img src="https://i.imgur.com/cgHzouv.png" alt="Speech engine">
+  <img src="https://i.imgur.com/mMOBLx9.png" alt="Speech engine">
 </p>
 
 ###### Obs: Ainda não é compatível com todos os navegadores. ######
