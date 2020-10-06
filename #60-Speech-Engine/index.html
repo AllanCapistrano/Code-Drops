@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+  <link rel="stylesheet" href="./styles.css">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Speech Engine</title>
+</head>
+
+<body class="m-auto text-center">
+  <main>
+    <div class="border border-purple-200 m-4" contenteditable oninput="setText(event)">
+      Digite seu texto aqui.
+    </div>
+    <label id="txt-velocity" for="velocity">Velocidade: 1</label>
+    <input 
+      type="range" 
+      name="velocity" 
+      id="ivelocity" 
+      value="1" 
+      min="0.5" 
+      max="2" 
+      step="0.5" 
+      onchange="setVelocity(value)"
+    >
+    <div class="buttons-block m-2">
+      <button onclick="speak()" class="p-4 bg-purple-400 text-white rounded shadow">Falar</button>
+      <button onclick="stop()" class="p-4 bg-purple-700 text-white rounded shadow">Parar</button>
+    </div>
+  </main>
+  <script src="./functions.js"></script>
+</body>
+
+</html>
